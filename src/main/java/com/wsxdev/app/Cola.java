@@ -53,7 +53,6 @@ public class Cola {
     }
 
     public int peek(){
-
         return 0;
     }
 
